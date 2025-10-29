@@ -1,0 +1,1 @@
+Felüláteresztő szűrővel tudtam detektálni a "tetkót" illetve a karakter kezénél megfigyelhető módosítást
